@@ -28,7 +28,6 @@ class Solution:
         record(root)
         for x in nodes:
             avg_list = traverse(x, [])
-            print(avg_list)
             length = len(avg_list)
             if length > 0:
                 if math.floor(sum(avg_list)/length) == x.val:
