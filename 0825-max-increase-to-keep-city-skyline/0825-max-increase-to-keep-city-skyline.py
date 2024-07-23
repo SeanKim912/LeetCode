@@ -20,8 +20,7 @@ class Solution:
                 xmax = max(x)
                 vert = ymax[y]
                 num = x[y]
-                if num < xmax and num < vert:
-                    total += (min(xmax, vert) - num)
+                total += (min(xmax, vert) - num)
             y += 1
 
         return total
