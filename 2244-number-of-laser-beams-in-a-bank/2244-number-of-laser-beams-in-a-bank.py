@@ -14,8 +14,9 @@ class Solution:
             r2 = 0
             j = i + 1
             while j < length:
-                if bank[j]:
-                    r2 = bank[j]
+                num = bank[j]
+                if num:
+                    r2 = num
                     j = length
                 else:
                     j += 1
