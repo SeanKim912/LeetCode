@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SeanKim912/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeanKim912/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/SeanKim912/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Math
 |  |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SeanKim912/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+## String
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeanKim912/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
