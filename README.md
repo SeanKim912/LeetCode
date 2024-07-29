@@ -48,8 +48,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeanKim912/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SeanKim912/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SeanKim912/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SeanKim912/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SeanKim912/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Recursion
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SeanKim912/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
