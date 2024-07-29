@@ -22,14 +22,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SeanKim912/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SeanKim912/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SeanKim912/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SeanKim912/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SeanKim912/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SeanKim912/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
@@ -45,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeanKim912/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SeanKim912/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SeanKim912/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
