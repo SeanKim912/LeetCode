@@ -9,13 +9,13 @@ class Solution:
         new_travel = [0] + travel
         while i >= 0:
             trash = garbage[i]
-            if not gmax and "G" in trash:
+            if "G" in trash and not gmax:
                 gmax = i + 1
                 total += sum(new_travel[0:gmax])
-            if not pmax and "P" in trash:
+            if "P" in trash and not pmax:
                 pmax = i + 1
                 total += sum(new_travel[0:pmax])
-            if not mmax and "M" in trash:
+            if "M" in trash and not mmax:
                 mmax = i + 1
                 total += sum(new_travel[0:mmax])
             i -= 1
