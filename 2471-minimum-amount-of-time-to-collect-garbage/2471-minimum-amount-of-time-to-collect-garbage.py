@@ -6,16 +6,18 @@ class Solution:
         gmax = 0
         pmax = 0
         mmax = 0
+        new_travel = [0] + travel
         while i >= 0:
             trash = garbage[i]
             if not gmax and "G" in trash:
                 gmax = i + 1
+                total += sum(new_travel[0:gmax])
             if not pmax and "P" in trash:
                 pmax = i + 1
+                total += sum(new_travel[0:pmax])
             if not mmax and "M" in trash:
                 mmax = i + 1
+                total += sum(new_travel[0:mmax])
             i -= 1
-        new_travel = [0] + travel
-        total += (sum(new_travel[0:gmax]) + sum(new_travel[0:pmax]) + sum(new_travel[0:mmax]))
 
         return total
