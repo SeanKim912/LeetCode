@@ -4,8 +4,7 @@ class Solution:
         i = len(piles)/3
         total = 0
         while i > 0:
-            skip = int(i * -2)
-            total += ordered[skip]
+            total += ordered[int(i * -2)]
             i -= 1
 
         return total
