@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SeanKim912/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SeanKim912/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SeanKim912/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SeanKim912/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SeanKim912/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0825-max-increase-to-keep-city-skyline](https://github.com/SeanKim912/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0921-spiral-matrix-iii](https://github.com/SeanKim912/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SeanKim912/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SeanKim912/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SeanKim912/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## String
 |  |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/SeanKim912/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SeanKim912/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SeanKim912/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Game Theory
 |  |
 | ------- |
