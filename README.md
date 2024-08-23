@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/SeanKim912/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SeanKim912/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SeanKim912/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SeanKim912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SeanKim912/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SeanKim912/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SeanKim912/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -86,11 +87,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SeanKim912/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SeanKim912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/SeanKim912/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SeanKim912/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SeanKim912/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SeanKim912/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Game Theory
 |  |
