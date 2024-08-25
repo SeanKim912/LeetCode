@@ -7,7 +7,8 @@ class Solution:
             sub = sorted(nums[x : y + 1])
             diff = sub[1] - sub[0]
             i = 1
-            while i < len(sub) - 1:
+            length = len(sub) - 1
+            while i < length:
                 if sub[i] + diff != sub[i + 1]:
                     return False
                 else:
@@ -15,7 +16,8 @@ class Solution:
             return True
 
         i = 0
-        while i < len(l):
+        length = len(l)
+        while i < length:
             result.append(check(l[i], r[i]))
             i += 1
 
