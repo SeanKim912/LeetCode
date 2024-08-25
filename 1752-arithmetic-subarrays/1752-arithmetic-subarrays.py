@@ -7,13 +7,11 @@ class Solution:
             sub = sorted(nums[x : y + 1])
             diff = sub[1] - sub[0]
             i = 1
-            j = 2
-            while j < len(sub):
-                if (sub[j] - sub[i]) != diff:
+            while i < len(sub) - 1:
+                if sub[i] + diff != sub[i + 1]:
                     return False
                 else:
                     i += 1
-                    j += 1
             return True
 
         i = 0
