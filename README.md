@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/SeanKim912/LeetCode/tree/master/0389-find-the-difference) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeanKim912/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SeanKim912/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SeanKim912/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/SeanKim912/LeetCode/tree/master/0389-find-the-difference) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SeanKim912/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/SeanKim912/LeetCode/tree/master/0389-find-the-difference) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SeanKim912/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/SeanKim912/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SeanKim912/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -106,5 +109,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/SeanKim912/LeetCode/tree/master/0389-find-the-difference) |
 | [1752-arithmetic-subarrays](https://github.com/SeanKim912/LeetCode/tree/master/1752-arithmetic-subarrays) |
 <!---LeetCode Topics End-->
